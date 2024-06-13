@@ -1,4 +1,4 @@
-TrialType,Condition,Modality,StairCond,Decision,DecisionRT,Confidence,ConfidenceRT,Alpha,listenBPM,responseBPM,ResponseCorrect,DecisionProvided,RatingProvided,nTrials,EstimatedThreshold,EstimatedSlope,StartListening,StartDecision,ResponseMade,RatingStart,RatingEnds,endTrigger,HeartRateOutlier,paticipantNo
+TrialType,Condition,Modality,StairCond,Decision,DecisionRT,Confidence,ConfidenceRT,Alpha,listenBPM,responseBPM,ResponseCorrect,DecisionProvided,RatingProvided,nTrials,EstimatedThreshold,EstimatedSlope,StartListening,StartDecision,ResponseMade,RatingStart,RatingEnds,endTrigger,HeartRateOutlier,Subject
 psi,Less,Intero,psi,left,2.0951619,9,1.272,-0.5,63.5,63,TRUE,TRUE,TRUE,0,22.8055505,12.549457,1703079367,1703079378,1703079380,1703079381,1703079382,1703079382,FALSE,5
 psi,Less,Extero,psi,left,2.1709159,10,1.509,-0.5,60.5,60,TRUE,TRUE,TRUE,1,22.8055505,12.549457,1703079383,1703079389,1703079392,1703079392,1703079394,1703079394,FALSE,5
 psi,More,Extero,psi,right,1.906227,6,1.868,22.5,78.5,101,TRUE,TRUE,TRUE,2,34.41254178,12.24536396,1703079395,1703079401,1703079403,1703079404,1703079406,1703079406,FALSE,5
